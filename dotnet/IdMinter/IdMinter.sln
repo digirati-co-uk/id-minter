@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdMinter", "IdMinter\IdMinter.csproj", "{4AC0DCE3-A754-4148-BF17-A574FDB0A283}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdMinterDemo", "IdMinterDemo\IdMinterDemo.csproj", "{E9D25AA5-4AF4-4658-998C-CFFAB3EFE2B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4AC0DCE3-A754-4148-BF17-A574FDB0A283}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AC0DCE3-A754-4148-BF17-A574FDB0A283}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AC0DCE3-A754-4148-BF17-A574FDB0A283}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AC0DCE3-A754-4148-BF17-A574FDB0A283}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9D25AA5-4AF4-4658-998C-CFFAB3EFE2B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9D25AA5-4AF4-4658-998C-CFFAB3EFE2B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9D25AA5-4AF4-4658-998C-CFFAB3EFE2B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9D25AA5-4AF4-4658-998C-CFFAB3EFE2B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D4118D94-7E60-4A42-911D-799773E1AE95}
+	EndGlobalSection
+EndGlobal
