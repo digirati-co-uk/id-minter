@@ -4,7 +4,7 @@ namespace IdMinter
 {
     public class Identifiable
     {
-        private static readonly char[] Numbers = "23456789".ToCharArray();                   // not 1
+        private static readonly char[] Numbers = "23456789".ToCharArray();                   // not 1, 0
         private static readonly char[] Letters = "abcdefghjkmnpqrstuvwxyz".ToCharArray();    // not i, l, o
         private static readonly char[] All = [.. Numbers, .. Letters];
 
