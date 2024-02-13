@@ -3,6 +3,11 @@ User-friendly identifier generator in various languages, based on Wellcome's Sca
 
 https://github.com/wellcomecollection/catalogue-pipeline/blob/main/pipeline/id_minter/src/main/scala/weco/pipeline/id_minter/utils/Identifiable.scala
 
+Background:
+
+https://github.com/wellcomecollection/catalogue-pipeline/blob/main/pipeline/id_minter/README.md
+
+
 Example - from dotnet
 
 ```
